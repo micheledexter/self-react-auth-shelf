@@ -71,6 +71,7 @@ This page should display a list of users along with the total number of items th
 
 ### Stretch Goals
 
+- Style with Material-UI
 - Ability to edit an existing item on the shelf from the view page.
 - Filestack for image upload on the add page.
 - A new route to display all items for a specific user. `/shelf/2` would display items uploaded by user with the id of `2`.
