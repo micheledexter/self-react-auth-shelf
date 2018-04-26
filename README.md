@@ -73,5 +73,6 @@ This page should display a list of users along with the total number of items th
 
 - Style with Material-UI
 - Ability to edit an existing item on the shelf from the view page.
+- Have anyone, not just logged in users, be able to see what is on the shelf, but not edit, remove, nor add.
 - Filestack for image upload on the add page.
 - A new route to display all items for a specific user. `/shelf/2` would display items uploaded by user with the id of `2`.
