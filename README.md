@@ -10,7 +10,7 @@ This will require some research, design, an implementation. Update this README.m
 
 > NOTE: Do not clone this repository.
 
-* Don't Fork or Clone. Instead, click the `Clone or Download` button and select `Download Zip`.
+* Don't Fork or Clone. Instead, have one memeber of your group click the `Clone or Download` button and select `Download Zip`.
 * Unzip the project and start with the code in that folder.
 * Create a new GitHub project and push this code to the new repository.
 * Add members of your group to the repository.
@@ -36,6 +36,7 @@ CREATE TABLE "item" (
 
 ## DEVELOPMENT SETUP
 
+* Clone the repository for your group
 * Run `npm install`
 * Create a `.env` file at the root of the project and paste this line into the file:
     ```
