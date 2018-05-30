@@ -48,7 +48,7 @@ CREATE TABLE "item" (
 
 ## FEATURES
 
-We recommend working in groups of 4 or 6 and pair programming for this project. Each pair should take on one of the following features. You will want to identify any *FINISH TO START** tasks as a group to avoid merge conflicts. Each of the following features should be on a separate route.
+We recommend working in groups of 4 or 6 and pair programming for this project. Each pair should take on one of the following features. You will want to identify any tasks that need to be finished in a particular order as a group to avoid merge conflicts. Each of the following features should be on a separate route.
 
 ### View Shelf
 
@@ -69,8 +69,8 @@ This page should display a list of users along with the total number of items th
 
 ### Stretch Goals
 
-- Style with Material-UI
 - Ability to edit an existing item on the shelf from the view page.
 - Have anyone, not just logged in users, be able to see what is on the shelf, but not edit, remove, nor add.
-- Filestack for image upload on the add page.
 - A new route to display all items for a specific user. `/shelf/2` would display items uploaded by user with the id of `2`.
+- Filestack for image upload on the add page.
+- Style with Material-UI
