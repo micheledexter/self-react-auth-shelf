@@ -63,7 +63,7 @@ This page should include a form that allows user to add items to the shelf. Each
 
 ### Total Number of Items by User
 
-> NOTE: In a group of six, this feature should be completed as base functionality. In a group of four, this would be a stretch goal.
+> NOTE: In a group of six, this feature should be completed as base functionality. In a group of four or five, this would be a stretch goal.
 
 This page should display a list of users along with the total number of items they have added to the shelf. Users with 0 items on the shelf should be displayed as well! 
 
